@@ -1,0 +1,22 @@
+body{
+	/*background-color: salmon;*/
+	font-size: 17px;
+	font-family: arial;
+	line-height: 1.5em;
+}
+
+header{
+	background: #333;
+	color: #fff;
+	padding:20px;
+	text-align: center;
+	border-bottom: 4px #000 solid;
+	margin-bottom: 10px;
+}
+
+#container{
+	/*background: blue;*/
+	width: 90%;
+	margin:auto;
+	padding:10px;
+}
